@@ -1,5 +1,8 @@
 # fizzBuzz-discoTiles
-Languages used are: +HTML +CSS and +Vanilla JS
+Languages used: 
+  + HTML 
+  + CSS
+  + Vanilla JS
 
 When I was looking into coding waaay back in 2015 I came across and old at the time coding interview question calle Fizz Buzz. I found it in a JavaScript book and also heard Matt Mullenweg talk about it on Tim Ferriss' podcast as an interview question for Automattic (Wordpress). As I understand this problem started being used about fifteen years ago and I imagine is not used much anymore. As the level of coding that is required for a basic entry-level position increases, this has most likely been replaced with a more difficult or complex problem, but for nostalgia's sake I wanted to make something with it.
 
