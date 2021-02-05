@@ -1,0 +1,45 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+/* Grid Styling */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tile-grid {
+    margin-top: 2rem;
+    display: grid;
+    gap: 0.25rem;
+    grid-template-columns: repeat(10, 1fr);
+}
+
+.tile-test1 {
+    width: 30px;
+    height: 30px;
+    background: cyan;
+}
+
+.tile-test2 {
+    width: 30px;
+    height: 30px;
+    background: yellow;
+}
+
+.tile-test3 {
+    width: 30px;
+    height: 30px;
+    background: magenta;
+}
+
+.tile-test4 {
+    width: 30px;
+    height: 30px;
+    background: black;
+}
