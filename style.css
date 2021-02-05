@@ -20,26 +20,27 @@
     grid-template-columns: repeat(10, 1fr);
 }
 
-.tile-test1 {
+/* These classes will be assigned to tiles dynamically according to their position in the grid from location 1-100 */
+.tile-fizz {
     width: 30px;
     height: 30px;
     background: cyan;
 }
 
-.tile-test2 {
+.tile-buzz {
     width: 30px;
     height: 30px;
     background: yellow;
 }
 
-.tile-test3 {
+.tile-fizzbuzz {
     width: 30px;
     height: 30px;
     background: magenta;
 }
 
-.tile-test4 {
+.tile-i {
     width: 30px;
     height: 30px;
-    background: black;
+    background: #ddd;
 }
